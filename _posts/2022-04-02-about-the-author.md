@@ -7,4 +7,5 @@ tags: [documentation,sample]
 image: arctic-2.jpg
 ---
 
-Add our introductions here
+Kelvin Murillo:
+Masters Student in the Big Data Analytics Program with a passion for data science and machine learning
