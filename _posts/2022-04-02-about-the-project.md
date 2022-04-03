@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Getting Started"
-author: "Paul Le"
-categories: documentation
+title: "About the Project"
+author: "Kelvin Murillo, Shad Fernandez"
+categories: about-the-project
 tags: [documentation,sample]
 image: city-1.jpg
 ---

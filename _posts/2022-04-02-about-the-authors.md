@@ -2,7 +2,7 @@
 layout: post
 title: "About the Authors"
 author: "Kelvin Murillo, Shad Fernandez"
-categories: facts
+categories: about-the-authors
 tags: [documentation,sample]
 image: arctic-2.jpg
 ---
